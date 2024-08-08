@@ -1,5 +1,5 @@
-Origin: cydia-repo
-Label: cydia-repo
+Origin: cydia.wildscript.tech
+Label: Siddhant's Cydia Repository
 Suite: stable
 Version: 1.0
 Codename: ios
